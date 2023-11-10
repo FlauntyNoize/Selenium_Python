@@ -1,2 +1,3 @@
 # Selenium_Python
-Projects from Stepik "Test Automation with Selenium and Python" course https://stepik.org/course/575/syllabus
+
+Various projects from the [Test automation using Selenium and Python](https://stepik.org/course/575/promo) course.
